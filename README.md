@@ -6,6 +6,7 @@ Homebrew tap for ossianhempel.
 
 ```
 brew install ossianhempel/tap/things3-cli
+brew install ossianhempel/tap/sl-clie
 ```
 
 ## Update
