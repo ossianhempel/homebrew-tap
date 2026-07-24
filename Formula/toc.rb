@@ -6,7 +6,7 @@ class Toc < Formula
   version "0.1.0"
 
   def install
-    bin.install "toc-0.1.0/bin/toc"
+    bin.install "bin/toc"
   end
 
   test do
